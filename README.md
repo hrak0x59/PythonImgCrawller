@@ -1,2 +1,2 @@
 # python_book_crawller
-python入門書の実装
+指定した数の画像を指定したサイトからスクレイピングしてくるimage_crawllerを実装
