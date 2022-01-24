@@ -96,4 +96,3 @@ if __name__=='__main__':
     maximum_download = 10
     crawller = ImageCrawller(save_dirpath,start_page,maximum_download)
     crawller.run()
-    
