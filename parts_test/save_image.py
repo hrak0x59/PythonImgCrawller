@@ -7,4 +7,3 @@ def save_image(url,file_path):
     save_path = os.path.join(url,file_path)
     with open(save_path,'wb') as f:
         f.write(image_data)
-    

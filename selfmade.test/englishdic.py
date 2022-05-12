@@ -1,6 +1,5 @@
 #URLのhtmlの中の英語であるものの意味を全て英和辞典で調べるゴミシステム
-#めっちゃ遅くなるよ＾
-#サーバーダウン気を付けてね
+#サーバーダウンのための規制
 import webbrowser
 import time
 import requests
